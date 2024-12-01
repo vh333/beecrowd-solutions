@@ -1,7 +1,6 @@
 import math
 n = int(input())
 for i in range(n):
-    mdc = 0
     fig = list(map(int, (input().split())))
     fig1 = fig[0]
     fig2 = fig[1]
