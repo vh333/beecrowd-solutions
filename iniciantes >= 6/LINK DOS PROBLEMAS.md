@@ -1,2 +1,2 @@
 Problemas na plataforma:
-- [1021] https://judge.beecrowd.com/pt/problems/view/1021
+- [3343] https://judge.beecrowd.com/pt/problems/view/3343
