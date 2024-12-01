@@ -13,4 +13,4 @@ while True:
         else:
             print("MORTO")
     except EOFError:
-        br
+        break
