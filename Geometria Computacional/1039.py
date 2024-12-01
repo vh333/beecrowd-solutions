@@ -1,5 +1,5 @@
-#[1039](https://judge.beecrowd.com/pt/problems/view/1039)
-#Geometria Computacional
+# [1039](https://judge.beecrowd.com/pt/problems/view/1039)
+# Geometria Computacional
 while True:
     try:
         dados = list(map(int, input().split()))
